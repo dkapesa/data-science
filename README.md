@@ -15,4 +15,5 @@ Key Questions Addressed:
 By addressing these questions, the project aims to elucidate the dynamics of renewable energy consumption in the U.S., offering valuable insights for stakeholders in the energy sector.
 
 Link to the Python code: https://colab.research.google.com/drive/1b3tTYmDOzkvbt7TazHG-7KCo7G5rdjoW?usp=sharing
+
 Link to the document analysis: https://docs.google.com/document/d/1asE5TCiMZ1KDhhbWE6BLAQBVhq8-8nxGQzk3MDozGK8/edit?usp=sharing
